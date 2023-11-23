@@ -1,5 +1,5 @@
 # Portolfio
-- Author: Bruno Rafael Wünsch.
+- Author: Syarta Pajaziti
 
 ## Technologies
 - React (TypeScript);
