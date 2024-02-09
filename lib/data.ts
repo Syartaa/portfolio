@@ -119,6 +119,9 @@ export const skillsData = [
   "Tailwind",
   "Bootstrap",
   "MySQL",
-  "Problem Solving" 
+  "Problem Solving" ,
+  "Asp.net",
+  "Java",
+  "Figms"
 
 ] as const;
