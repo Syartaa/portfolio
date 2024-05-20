@@ -18,11 +18,11 @@ const About = () => {
         >
             <SectionTitle>About me</SectionTitle>
             <p className="mb-3">
-                During my last year of high school, I started to take an IT Associate course, where I learned to program. Firstly, I learned programming logic using Python, after that, I studied the core web elements: HTML, CSS and JavaScript. In addition, during the course I also learned SQL, Object Oriented Programming and MVC structure.
+                During my last year of high school, I started to take an IT Associate course, where I learned to program. Firstly, I learned programming logic using JAVA, after that, I studied the core web elements: HTML, CSS and JavaScript. In addition, during the course I also learned SQL, Object Oriented Programming and MVC structure.
             </p>
         
             <p className="mb-3">
-                After that, in 2023, I started my bachelor in Computer Science and I am currently in the second semester. During this time I learned more about programming notions, concepts and OOB using Java. Furthermore, I'm also studying React (Next.JS) and TypeScript to integrate myself with the technologies used in the market.
+                After that, in 2021, I started my bachelor in Computer Science and I am currently in the sixth semester. During this time I learned more about programming notions, concepts and OOB using Java.  I am particularly interested in Java due to its versatility and robustness in building enterprise-level applications. Furthermore, I'm also studying React and JavaScript to integrate myself with the technologies used in the market.
             </p>
         
             <p>

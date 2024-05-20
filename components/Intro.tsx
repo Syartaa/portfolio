@@ -49,7 +49,7 @@ export default function Intro() {
         initial = {{ y: 100, opacity: 0 }}
         animate = {{ y: 0, opacity: 1 }}
       >
-        <span className="font-bold">Hello, I'm Syarta.</span> I'm a<span className="font-bold"> Computer Science student</span> currently in the<span className="font-bold"> 3nd semester</span> of the college.
+        <span className="font-bold">Hello, I'm Syarta.</span> I'm a<span className="font-bold"> Computer Science student</span> currently in the<span className="font-bold"> 3nd Year</span> of the college.
       </motion.h1>
 
       <motion.div className="flex flex-col items-center justify-center text-lg font-medium gap-3 px-4 sm:flex-row"
@@ -66,14 +66,14 @@ export default function Intro() {
           Contact me here <BsArrowRight className="opacity-70 group-hover:translate-x-1 transition" />
         </Link>
 
-        <a className="borderBlack group flex items-center gap-2 py-3 px-7 rounded-full outline-none bg-white cursor-pointer border-black/10 transition focus:scale-110 hover:scale-110 active:scale-105 dark:bg-white/10" href="public\CV - 2023 (en).pdf" download>
+        <a className="borderBlack group flex items-center gap-2 py-3 px-7 rounded-full outline-none bg-white cursor-pointer border-black/10 transition focus:scale-110 hover:scale-110 active:scale-105 dark:bg-white/10" href="../public/s_cv.pdf" download>
           Download CV <HiDownload className="opacity-60 group-hover:translate-y-1 transition" />
         </a>
         
         <div className="flex gap-3">
           <a 
             className="borderBlack flex items-center text-gray-700 gap-2 py-4 px-[1.125rem] rounded-full bg-white cursor-pointer border-black/10 transition hover:text-gray-950 focus:scale-[1.15] hover:scale-[1.15] active:scale-105 dark:text-white/60 dark:bg-white/10"
-            href="https://www.linkedin.com/in/syartapajaziti/" target="_blank">
+            href="www.linkedin.com/in/syarta-pajaziti-b810a226b" target="_blank">
               <BsLinkedin />
           </a>
           <a
