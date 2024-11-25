@@ -18,15 +18,16 @@ const About = () => {
         >
             <SectionTitle>About me</SectionTitle>
             <p className="mb-3">
-                During my last year of high school, I started to take an IT Associate course, where I learned to program. Firstly, I learned programming logic using JAVA, after that, I studied the core web elements: HTML, CSS and JavaScript. In addition, during the course I also learned SQL, Object Oriented Programming and MVC structure.
-            </p>
+            I have recently completed my studies in Computer Science and Engineering from UBT (University of Business and Technology), where I developed a strong foundation in various areas of technology. Throughout my academic journey, I gained expertise in core programming languages such as Java and JavaScript, and honed my skills in web development technologies like HTML, CSS, and React. My studies also deepened my understanding of Object-Oriented Programming (OOP), data structures, and algorithms, which I applied to real-world projects.         </p>
         
             <p className="mb-3">
-                After that, in 2021, I started my bachelor in Computer Science and I am currently in the sixth semester. During this time I learned more about programming notions, concepts and OOB using Java.  I am particularly interested in Java due to its versatility and robustness in building enterprise-level applications. Furthermore, I'm also studying React and JavaScript to integrate myself with the technologies used in the market.
-            </p>
+            Throughout my academic journey, I have developed a strong foundation in programming and software development. I have worked with core programming languages such as Java and JavaScript, as well as web development technologies like HTML, CSS, and React. My studies have deepened my understanding of Object-Oriented Programming (OOP), data structures, and algorithms, all of which I apply to real-world projects.            </p>
         
             <p>
-                Lastly, when I'm not coding or studying, I like to play video games, chat with my friends, listen to music and read. I like to read mainly about philosophy and astronomy.
+            In addition to my academic and professional experience, I am passionate about exploring the latest technologies in mobile app development. As part of my internship, I am learning to use Flutter to build scalable, performant applications, which has strengthened my interest in mobile development.
+
+Outside of tech, I enjoy  listening to music, reading, and engaging in thoughtful conversations with friends. 
+
             </p>
         </motion.section>
     );

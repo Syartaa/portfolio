@@ -13,6 +13,15 @@ import gfc from "@/public/img/gfc.png";
 import jobliss from "@/public/img/jobbliss.png";
 import petadoption from "@/public/img/petadoption.png";
 import petsystem from "@/public/img/petback.png";
+import chat from "@/public/img/chat.png";
+import raport_kerrev from "@/public/img/raport_kerrev.png";
+import expenseTracker from "@/public/img/expenseTracker.png";
+import FavoritePlaces from "@/public/img/FavoritePlaces.png";
+import mealsapp from "@/public/img/meals-app.png";
+import quiz from "@/public/img/quiz.png";
+import bookify from "@/public/img/bookify.png";
+
+
 
 
 
@@ -76,13 +85,7 @@ export const projectsData = [
     imageUrl: radianca,
     url:" https://github.com/Syartaa/Projekti-Web"
   },
-  {
-    title: "Food delivery project",
-    description: 'A website to order food',
-    tags: ["React", "Stripe", "MySQL", "Tailwind", "Laravel","vite" ],
-    imageUrl: gfc,
-    url: "https://github.com/florentsahiti/projekti_LAB1",
-  },
+
   {
     title: "JOBBLISS",
     description: 'A website to post or to look for jobs',
@@ -104,6 +107,48 @@ export const projectsData = [
     imageUrl: petsystem,
     url: "https://dev.azure.com/W23G77/W23G77",
   },
+  {
+    title: "ChatApp",
+    description: 'A mobile chat app',
+    tags: ["Flutter",  "Firebase", ],
+    imageUrl: chat,
+    url: "https://github.com/Syartaa/chat_app",
+  },
+  {
+    title: "Bookify",
+    description: 'E-book library managment',
+    tags: ["Reactjs",  "Nodejs","MySql" ],
+    imageUrl: bookify,
+    url: "https://github.com/Syartaa/Bookify",
+  },
+  {
+    title: "Meals App",
+    description: 'Meals favorite, recepite, and diffrent category',
+    tags: ["Reactjs",  "Nodejs","MySql" ],
+    imageUrl: mealsapp,
+    url: "https://github.com/Syartaa/meals_app",
+  },
+  {
+    title: "Quiz App",
+    description: 'Meals favorite, recepite, and diffrent category',
+    tags: ["Flutter",  "Firebase",],
+    imageUrl: quiz,
+    url: "https://github.com/Syartaa/quiz_app",
+  },
+  {
+    title: "Raport Kerreve",
+    description: 'Is a mobile application designed to streamline vehicle report management.',
+    tags: ["Flutter",  "Firebase",],
+    imageUrl: raport_kerrev,
+    url: "https://github.com/Syartaa/raport_veturave_app",
+  },
+  {
+    title: "Favorite Places",
+    description: 'Is a mobile application designed to streamline vehicle report management.',
+    tags: ["Flutter",  "Firebase",],
+    imageUrl: FavoritePlaces,
+    url: "https://github.com/Syartaa/raport_veturave_app",
+  },
   
   
 ] as const;
@@ -122,6 +167,9 @@ export const skillsData = [
   "Problem Solving" ,
   "Asp.net",
   "Java",
-  "Figms"
+  "Figma",
+  "Flutter",
+  "Firebase",
+
 
 ] as const;
